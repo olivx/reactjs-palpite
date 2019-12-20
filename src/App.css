@@ -1,0 +1,36 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.container {
+  margin: auto;
+  width: 450px;
+  margin: auto;
+  padding: 10px;
+}
+.cont-limit {
+  width: 450px;
+  margin-bottom: 50px;
+  margin-left: auto;
+}
+
+.item {
+  display: inline;
+}
+
+.btn {
+  margin: 5px;
+  height: 30pt;
+  width: 100pt;
+}
+
+.btn-right{
+  float: right;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
